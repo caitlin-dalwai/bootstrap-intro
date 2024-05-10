@@ -1,0 +1,20 @@
+.search-bar {
+    display: flex;
+    flex-direction: column;
+   
+  }
+
+  #but{
+    width: 150px;
+    
+  }
+
+#notif{
+    color: maroon;
+    background-color: #FFCCCC;
+    border: none;
+}
+
+h1{
+    font-weight:normal;
+}
